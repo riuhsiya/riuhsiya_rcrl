@@ -69,6 +69,23 @@
 じ
 ```
 
+それはどこですか
+sore wa doko desu ka
+where is that ?
+itu dimana ?
+```text
+それはどこですか
+```
+
+コンビニはどこですか
+konbini wa doko desu ka
+where is the convenience store ?
+dimana minimarket ?
+```text
+コンビニはどこですか
+```
+
+
 shuǐ air
 ```text
 水
