@@ -80,10 +80,27 @@ itu dimana ?
 コンビニはどこですか
 konbini wa doko desu ka
 where is the convenience store ?
-dimana minimarket ?
+minimarket itu dimana ?
 ```text
 コンビニはどこですか
 ```
+
+コンビニはそこです
+konbini wa soko desu
+the convenience store is there
+minimarket itu di sana
+```text
+コンビニはそこです
+```
+
+コンビニはそこですか
+konbini wa soko desu ka
+is the convenience storethere
+```text
+コンビニはそこですか
+```
+
+
 
 
 shuǐ air
