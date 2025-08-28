@@ -74,6 +74,11 @@
 っ
 ```
 
+0xe3 0x81 (so)
+```text
+そ
+```
+
 それはどこですか
 sore wa doko desu ka
 where is that ?
