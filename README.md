@@ -89,6 +89,11 @@
 に
 ```
 
+0xe3 0x81 0x96 ざ (za) 19 150
+```text
+ざ
+```
+
 それはどこですか
 sore wa doko desu ka
 where is that ?
