@@ -94,6 +94,11 @@
 ざ
 ```
 
+0xe3 0x81 0x9c ぜ (ze) 20 156
+```text
+ぜ
+```
+
 それはどこですか
 sore wa doko desu ka
 where is that ?
