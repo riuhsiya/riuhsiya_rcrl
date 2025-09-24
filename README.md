@@ -84,6 +84,11 @@
 ほ
 ```
 
+0xe3 0x81 0xab に (ni) 18 171
+```text
+に
+```
+
 それはどこですか
 sore wa doko desu ka
 where is that ?
