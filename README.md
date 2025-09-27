@@ -99,6 +99,11 @@
 ぜ
 ```
 
+0xe3 0x82 0x93 ん (n) 21 147
+```text
+ん
+```
+
 それはどこですか
 sore wa doko desu ka
 where is that ?
