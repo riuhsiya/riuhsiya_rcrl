@@ -104,6 +104,11 @@
 ん
 ```
 
+0xe3 0x81 0x8f く (ku) 22 143
+```text
+く
+```
+
 それはどこですか
 sore wa doko desu ka
 where is that ?
