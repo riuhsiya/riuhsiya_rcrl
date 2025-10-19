@@ -109,6 +109,11 @@
 く
 ```
 
+0xe3 0x81 0xa0 だ (da) 23 160
+```text
+だ
+```
+
 それはどこですか
 sore wa doko desu ka
 where is that ?
