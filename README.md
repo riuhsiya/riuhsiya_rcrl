@@ -114,6 +114,11 @@
 だ
 ```
 
+0xe3 0x81 0xa1 ち (chi) 24 161
+```text
+ち
+```
+
 それはどこですか
 sore wa doko desu ka
 where is that ?
