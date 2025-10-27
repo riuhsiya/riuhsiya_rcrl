@@ -119,6 +119,11 @@
 ち
 ```
 
+0xe3 0x83 0x8b ニ (ni) 25 139
+```text
+ニ
+```
+
 それはどこですか
 sore wa doko desu ka
 where is that ?
